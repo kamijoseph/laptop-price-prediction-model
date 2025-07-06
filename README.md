@@ -1,1 +1,4 @@
-"# Laptop Price Prediction" 
+laptop price prediction model.
+dataset:
+    https://www.kaggle.com/datasets/muhammetvarl/laptop-price
+level: beginner
